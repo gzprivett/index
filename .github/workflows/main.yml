@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Introduction</title>
+    <style>
+        body {
+            background-color: red;
+        }
+
+        h1 {
+            color: green;
+        }
+
+        p {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>My name is Gabriel Privett </h1>
+    <p>i am a formor navy sailor thats going back to school to get a degree i enjoy working out and doing things outside but also enjoy playing video games.</p>
+</body>
+</html>
